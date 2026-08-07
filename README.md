@@ -1,16 +1,17 @@
-## Hi there 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Matheus%20Brito&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-<!--
-**MatheusBritoCTMG/MatheusBritoCTMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=500&lines=UX%2FUI+Designer;Estudante+de+Ensino+T%C3%A9cnico;Sempre+aprendendo+algo+novo)]()
 
-Here are some ideas to get you started:
+🎓 Tenho 18 anos e estou concluindo o 3º ano do Ensino Médio/Técnico no Colégio Cotemig, em Belo Horizonte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Tenho interesse em desenvolvimento de projetos com foco em **UX/UI Design**, unindo criatividade e tecnologia para criar experiências digitais melhores.
+
+## 🚀 Ferramentas que uso
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+## 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-brito-vaz-bernardes)
+
+---
+⭐ Em constante aprendizado e sempre aberto a novos projetos!
